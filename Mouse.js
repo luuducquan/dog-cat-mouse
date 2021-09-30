@@ -1,5 +1,7 @@
-function mouse(name) {
+function Mouse(name) {
 
     this.name = name;
 
 }
+
+module.exports = Mouse;
